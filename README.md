@@ -1,14 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hello,%20I'm Hyeri&fontSize=90)
+# Hi, I'm Hyeri🐥
+## Backend Engineer 지망생🐥
 
-![Hyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiy7030&show_icons=true&theme=tokyonight) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiy7030)](https://solved.ac/hiy7030)
-
+<div>📝Studying Blog
 [![Study Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@hiy7030")
-
+<div/>
+ 
+<div>📝Studying Skill
  <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Java&logoColor=white"/>
+<div/>
+ 
+ ![Hyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiy7030&show_icons=true&theme=tokyonight) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiy7030)](https://solved.ac/hiy7030)
+ 
 <!--
 **hiy7030/hiy7030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
