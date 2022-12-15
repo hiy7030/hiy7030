@@ -2,7 +2,7 @@
 ## Backend Engineer 지망생🐥
 
 <div>🔗Studying Blog<div/>
-[![Study Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@hiy7030/)
+<a href=https://velog.io/@hiy7030"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
  
 <div>📝Studying Skill<div/>
