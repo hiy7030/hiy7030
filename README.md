@@ -2,8 +2,8 @@
 ## Backend Engineer 지망생🐥
 
 <div>🔗Studying Blog<div/>
-[![Study Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@hiy7030/")
- [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
+[![Study Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@hiy7030/)
+
  
 <div>📝Studying Skill<div/>
  <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat&logo=Java&logoColor=white"/>
