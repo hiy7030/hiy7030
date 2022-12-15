@@ -1,16 +1,16 @@
 # Hi, I'm Hyeri🐥
 ## Backend Engineer 지망생🐥
 
-<div>📝Studying Blog
-[![Study Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@hiy7030")
-<div/>
+<div>📝Studying Blog<div/>
+[![Study Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@hiy7030/)
  
-<div>📝Studying Skill
+<div>📝Studying Skill<div/>
  <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Java&logoColor=white"/>
-<div/>
+
+<div>💪Try<div>
  
  ![Hyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiy7030&show_icons=true&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hiy7030)](https://solved.ac/hiy7030)
