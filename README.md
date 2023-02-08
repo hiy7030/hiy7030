@@ -1,5 +1,4 @@
-# Hi, I'm Hyeri🐥
-## Backend Developer 지망생🐥
+# 백엔드 개발자, 나혜리입니다.🐥
 
 <div>🔗Studying Blog<div/>
 <a href=https://velog.io/@hiy7030><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
