@@ -1,7 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b68fff,100:0055ff&height=180&text=백엔드%20개발자,%20나혜리입니다💡&animation=&fontColor=ffffff&fontSize=50" />
     </div>
-    
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
